@@ -1,2 +1,1 @@
-# tindog
-Tinder copycat website for dogs
+TinDog Starting Files
